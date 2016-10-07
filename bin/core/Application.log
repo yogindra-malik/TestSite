@@ -1,0 +1,14 @@
+30/07/2016 01:40:43 devpinoyLogger Executing the test Navigate
+30/07/2016 01:40:43 devpinoyLogger Executing Navigate
+30/07/2016 01:40:49 devpinoyLogger ***Result of execution -- Pass
+30/07/2016 01:40:49 devpinoyLogger Error came
+30/07/2016 01:40:49 devpinoyLogger ######################Navigate --- Pass
+30/07/2016 01:40:49 devpinoyLogger Executing the test LoginTest
+30/07/2016 01:40:49 devpinoyLogger Executing input Keyword
+30/07/2016 01:40:50 devpinoyLogger ***Result of execution -- Pass
+30/07/2016 01:40:50 devpinoyLogger Executing clickLink
+30/07/2016 01:40:50 devpinoyLogger ***Result of execution -- Pass
+30/07/2016 01:40:50 devpinoyLogger Executing input Keyword
+30/07/2016 01:40:51 devpinoyLogger ***Result of execution -- Pass
+30/07/2016 01:40:51 devpinoyLogger Error came
+30/07/2016 01:40:51 devpinoyLogger ######################LoginTest --- Pass

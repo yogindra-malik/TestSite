@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [My Sample Suite]">
+  <listeners>
+    <listener class-name="util.TestListenerAdapter"/>
+  </listeners>
+  <test name="Driver Script Suite 1(failed)">
+    <classes>
+      <class name="apps.DriverApp">
+        <methods>
+          <include name="testApp"/>
+          <include name="startTesting"/>
+        </methods>
+      </class> <!-- apps.DriverApp -->
+    </classes>
+  </test> <!-- Driver Script Suite 1(failed) -->
+</suite> <!-- Failed suite [My Sample Suite] -->
