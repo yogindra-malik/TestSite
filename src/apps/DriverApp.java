@@ -162,8 +162,6 @@ public class DriverApp{
 		
 		String startTime=null;
 		
-		
-		
 		TestReports.startSuite("Suite 1");
 		
 		for(int tcid=2 ; tcid<=Core.getRowCount("Suite1");tcid++){
